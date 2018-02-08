@@ -1,0 +1,6 @@
+[submodule "SSH"]
+	path = SSH
+	url = https://github.com/mahyarnajibi/SSH.git
+[submodule "mtcnn-caffe"]
+	path = mtcnn-caffe
+	url = https://github.com/CongWeilin/mtcnn-caffe.git
