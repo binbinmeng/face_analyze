@@ -4,3 +4,6 @@
 [submodule "mtcnn-caffe"]
 	path = mtcnn-caffe
 	url = https://github.com/CongWeilin/mtcnn-caffe.git
+[submodule "MTCNN"]
+	path = MTCNN
+	url = https://github.com/foreverYoungGitHub/MTCNN.git
